@@ -17,3 +17,4 @@ func PreparationTime(numberOfLayers int) int {
 func ElapsedTime(numberOfLayers, actualMinutesInOven int) int {
 	return PreparationTime(numberOfLayers) + actualMinutesInOven
 }
+
