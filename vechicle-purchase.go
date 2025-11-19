@@ -28,3 +28,4 @@ func CalculateResellPrice(originalPrice, age float64) float64 {
 		return originalPrice * 0.7
 	}
 }
+
