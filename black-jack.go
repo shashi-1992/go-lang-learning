@@ -77,3 +77,4 @@ func FirstTurn(card1, card2, dealerCard string) string {
 	}
 	return response
 }
+
